@@ -12,6 +12,7 @@ requires = [
     "gcc",
     "cmake",
     "python",
+    "glew",
 ]
 
 def commands():
